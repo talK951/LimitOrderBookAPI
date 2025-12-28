@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9,
+    "price": 1,
+    "buyOrSell": false
+  },
+  {
+    "id": 8,
+    "price": 1,
+    "buyOrSell": false
+  },
+  {
+    "id": 7,
+    "price": 5,
+    "buyOrSell": true
+  },
+  {
+    "id": 6,
+    "price": 5,
+    "buyOrSell": true
+  }
+]

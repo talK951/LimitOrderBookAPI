@@ -1,0 +1,84 @@
+# ==========================
+# OS generated files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Python
+# ==========================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# Pytest cache
+.pytest_cache/
+
+# mypy type checker
+.mypy_cache/
+
+# ==========================
+# C++ / Build
+# ==========================
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Compiled dynamic libraries / shared objects
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+*.ilk
+*.idb
+
+# CMake / Make
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ==========================
+# IDE / Editor
+# ==========================
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+
+# CLion
+.idea/
+
+# Vim / Emacs swap files
+*.swp
+*~

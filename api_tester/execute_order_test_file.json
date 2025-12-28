@@ -1,0 +1,10 @@
+[
+  {
+  "shares" : 1,
+  "buyOrSell": false
+  },
+  {
+  "shares" : 1,
+  "buyOrSell": true
+  }
+]
